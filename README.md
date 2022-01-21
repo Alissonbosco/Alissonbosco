@@ -8,5 +8,5 @@ chamo Alisson</h1> <h3 align="center">dev front-end</h3>
 
 
 - 👨 💻 Todos os meus projetos estão disponíveis em [https://github.com/Alissonbosco](https://github.com/Alissonbosco) -
--  📫 Como me alcançar **Abosco874@gmail.com**
+-  📫 Como chegar até mim **Abosco874@gmail.com**
 
