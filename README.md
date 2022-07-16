@@ -19,7 +19,7 @@ Meu nome é Alisson, sou um QA tester e Desenvolvedor Web. Atualmente sou estagi
 
 #### 🤓 Linguagens e Ferramentas
 
-<!-- <h3 align="left">Languages and Tools:</h3> -->
+
 <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
@@ -29,12 +29,7 @@ Meu nome é Alisson, sou um QA tester e Desenvolvedor Web. Atualmente sou estagi
 <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
-<!-- <p align="left">
-<img align="center" src="https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&color=0F5F8C" alt="CSS" title="CSS">
-<img align="center" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white&color=0F5F8C" alt="GIT" title="GIT">
-<img align="center" src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white&color=0F5F8C" alt="HTML" title="HTML">
-<img align="center" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white&color=0F5F8C" alt="Java" title="Java">
-<img align="center" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white&color=0F5F8C" alt="JavaScript" title="JavaScript"> -->
+
 
 
 #### 🖥️ Uso no meu dia a dia
@@ -47,6 +42,6 @@ Meu nome é Alisson, sou um QA tester e Desenvolvedor Web. Atualmente sou estagi
 #
 #### 👩🏻‍💻 Cursos realizados
 <p align="left">
-   <a href="https://github.com/becabelin/tech-ta-on"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=becabelin&repo=tech-ta-on&theme=react&bg_color=0D1117&title_color=F0F6FF&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a>
+   <a href="https://media-exp1.licdn.com/dms/image/C4E2DAQFNxn-VOTueCg/profile-treasury-image-shrink_800_800/0/1644586289557?e=1658534400&v=beta&t=w3dgo97iztsASvn1hjia9MmyA4nJSaDATu6W-9aOKIo"><img width="282" ></a>
   
 </p>
