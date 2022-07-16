@@ -42,6 +42,6 @@ Meu nome é Alisson, sou um QA tester e Desenvolvedor Web. Atualmente sou estagi
 #
 #### 👩🏻‍💻 Cursos realizados
 <p align="left">
-   <button align="center" src="https://media-exp1.licdn.com/dms/image/C4E2DAQFNxn-VOTueCg/profile-treasury-image-shrink_800_800/0/1644586289557?e=1658534400&v=beta&t=w3dgo97iztsASvn1hjia9MmyA4nJSaDATu6W-9aOKIo" alt="CERTIFICADO" title="OtechTáON">
+  <img align="center" src="https://media-exp1.licdn.com/dms/image/C4E2DAQFNxn-VOTueCg/profile-treasury-image-shrink_800_800/0/1644586289557?e=1658534400&v=beta&t=w3dgo97iztsASvn1hjia9MmyA4nJSaDATu6W-9aOKIo" alt="CERTIFICADO" title="OtechTáON">
   
 </p>
