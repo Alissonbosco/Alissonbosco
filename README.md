@@ -14,7 +14,7 @@
 #
 
 #### 👦 Quem sou eu
-Meu nome é Alisson, sou um QA tester e Desenvolvedor Web. Atualmente sou estagiario de desenvolvimento no Crm Syonet. Sou apaixonado por tecnologia usar os meus conhecimentos para ajudar e melhorar a vida das pessoas!
+Meu nome é Alisson, sou um QA tester e Desenvolvedor Web. Atualmente sou estagiario de desenvolvimento no Crm Syonet. Sou apaixonado por tecnologia e quero usar os meus conhecimentos para ajudar a melhorar a vida das pessoas!
 
 
 #### 🤓 Linguagens e Ferramentas
